@@ -1,8 +1,10 @@
 # Betterment
 
+We are currently living in the time where it is very convenient to invest our money. One part reason how this became possible is with the emergence of the financial domain called 'robo advisory.' It is a digital platform that can provide financial services planning without the help of human experts through automation and algorithm based decision making process. Traditionally, investment consultation was only for the people who invests large amount of money who could afford the cost of consultation with the expert, but with the help of robo advisor, smart investing becaome widely accessible to wide range of people with much lower cost. One of the leading company that made this possible is Betterment.
+
 ## Overview and Origin
 
-Name of the company is Betterment, and it was founded by Jon Stein in 2008. 
+Betterment is a US robo advisor company, and it was founded by Jon Stein in 2008. 
 The founder, Jon Stein, had the idea to help people make rational decisions to make the world better. Throughout his consulting job, his idea has developed further. He wanted to give people the right guidance for their personal investment. He also wanted to make that guidance accessible to many people with the help of technologies.
 Betterment is funded by 27 investors with 10 rounds of fundings as of now. Some of the major investors are AB Kinnevik, Bessemer Venture Partners, Francisco Partners, and Menlo Ventures. Their most recent round of funding raised $160 million which was comprised of Series F equity of $60 million and $100 million credit facility. This raise has pushed the company's market value to about $1.3 billion. 
 
@@ -31,6 +33,10 @@ In the past 10 years, the traditional financial institutions such as Black Rock 
 
 According to the Betterment website, they have $40+ billion of assets under management (AUM) as of Aug 30, 2023 and their reported customer count is 800,000+.
 Some core metrics to measure the company's success would be assets under management (AUM) and customer numbers. 
+Advisory fee is another metric used to compare companies.
+Performance level another indicator.
+Based on the report from the Robo Report from Condor Capital, in the second quarter of 2022, Betterment ranked 8 out of 15 companies that the report compared against. In terms of performance alone, Betterment ranked 10 out of 15.
+
 
 
 ## Recommendations
@@ -42,7 +48,7 @@ Large Language Model would be a good technology to apply in this case to launch 
 
 
 
-References:
+Addendum:
 Betterment website: https://www.betterment.com/
 Investopedia review of Betterment: https://www.investopedia.com/betterment-review-4587887
 Forbes interview with Jon Stein: https://www.forbes.com/sites/brucerogers/2018/01/18/jonathan-stein-built-betterment-to-help-investors-make-better-decisions/?sh=69e27c924d30
@@ -51,6 +57,11 @@ History of robo-advisor: https://www.linkedin.com/pulse/robo-advisor-origin-stor
 Bloomberg fund raise: https://www.bnnbloomberg.ca/betterment-valuation-rises-to-1-3-billion-on-funding-round-1.1659171
 Betterment funding rounds and investors info: https://www.crunchbase.com/organization/betterment/company_financials
 Investopedia comparison of robo-advisors: https://www.investopedia.com/best-robo-advisors-4693125
+Investopedia robo-advisor: https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp
+Robo report archives: https://www.condorcapital.com/the-robo-report/report-archives/
+Robo report second quarter 2022: https://storage.googleapis.com/gcs.backendb.com/wordpress/media/2023/03/2Q22-Robo-Report-and-Summer-2022-Robo-Ranking.pdf
+Robo report the rise of digital advice: https://storage.googleapis.com/gcs.backendb.com/1/2020/11/The-Rise-of-Digital-Advice.pdf
+
 
 
 
